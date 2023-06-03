@@ -1,0 +1,335 @@
+job_id,Designation,city,state,country,Company_id,Details_id
+1,Quality Analyst Automation,Jaipur, Rajasthan, India,5001,1001
+2,QA Automation Tester,Jaipur, Rajasthan, India,5001,1002
+3,Technology Analyst - Mainframe (3-5 years) - Jaipur,Jaipur, Rajasthan, India,5002,1003
+4,Web Developer - Python,Chennai, Tamil Nadu, India,5001,1004
+5,Web Developer - Python,Noida, Uttar Pradesh, India,5001,1005
+6,Web Developer - Python,Ahmedabad, Gujarat, India,5001,1006
+7,QA Automation Engineer,Jaipur, Rajasthan, India,5001,1007
+8,Web Developer - Python,Hyderabad, Telangana, India,5001,1008
+9,Technology Lead - Mainframe (5-8 years) - Jaipur,Jaipur, Rajasthan, India,5002,1009
+10,Web Developer - Python,Pune, Maharashtra, India,5001,1010
+11,Sr. Automation Analyst,Bengaluru, Karnataka, India,5001,1011
+12,Technology Lead,Jaipur, Rajasthan, India,5002,1012
+13,Lead Data Scientist,Indore, Madhya Pradesh, India,5001,1013
+14,Remote DevOps Engineer,Bengaluru, Karnataka, India,5001,1014
+15,Associate Manager - Data Analytics,Bengaluru, Karnataka, India,5003,1015
+16,Quality Analyst Automation,Chennai, Tamil Nadu, India,5001,1016
+17,Product Manager - Data Analytics,Hyderabad, Telangana, India,5003,1017
+18,Senior Manager-BFS024338,Jaipur, Rajasthan, India,5004,1018
+19,Senior Python Developer,Kochi, Kerala, India,5001,1019
+20,Remote DevOps Engineer,Hyderabad, Telangana, India,5001,1020
+21,Lead Data Scientist,Chandigarh, India,,5001,1021
+22,Technology Analyst - .Net,Jaipur, Rajasthan, India,5002,1022
+23,Lead Data Scientist,Tamil Nadu, India,,5001,1023
+24,Lead Data Scientist,Mumbai, Maharashtra, India,5001,1024
+25,Associate Mgr-Data Analytics,Hyderabad, Telangana, India,5003,1025
+26,Web Developer -Python,Noida, Uttar Pradesh, India,5001,1026
+27,PD - OTC-BFS024025,Jaipur, Rajasthan, India,5004,1027
+28,Manager - Data Analytics,Chennai, Tamil Nadu, India,5003,1028
+29,Lead Data Scientist,India,,,5001,1029
+30,Remote DevOps Engineer,India,,,5001,1030
+31,Web Developer -Python,Bengaluru, Karnataka, India,5001,1031
+32,Technology Lead - Devops (5-8 years) - Jaipur,Jaipur, Rajasthan, India,5002,1032
+33,Selenium Application Developer,Gurgaon, Haryana, India,5005,1033
+34,Assoc Mgr-Data Analytics,Hyderabad, Telangana, India,5003,1034
+35,Remote DevOps Engineer,Pune, Maharashtra, India,5001,1035
+36,SAP FSCM In-House Cash Application Lead,Jaipur, Rajasthan, India,5005,1036
+37,Data Scientist- WFH,Chennai, Tamil Nadu, India,5001,1037
+38,Technology Architect,Jaipur, Rajasthan, India,5006,1038
+39,Associate - Back Office Analyst (REF38E),Kochi, Kerala, India,5003,1039
+40,Python Developer- Remote,Gurugram, Haryana, India,5001,1040
+41,Data Scientist- WFH,Delhi, India,,5001,1041
+42,Data Scientist- WFH,Hyderabad, Telangana, India,5001,1042
+43,Data Scientist- WFH,Bengaluru, Karnataka, India,5001,1043
+44,Technical Lead,Bengaluru, Karnataka, India,5006,1044
+45,Remote DevOps Engineer,Gurugram, Haryana, India,5001,1045
+46,Lead - Data Scientist / Analytics,Hyderabad, Telangana, India,5003,1046
+47,Lead,Chennai, Tamil Nadu, India,5003,1047
+48,Python Software Developer,Hyderabad, Telangana, India,5001,1048
+49,Test Automation,Pune, Maharashtra, India,5007,1049
+50,Lead Administrator,Mumbai, Maharashtra, India,5006,1050
+51,Lead - Data Analytics,Bengaluru, Karnataka, India,5003,1051
+52,Data Science Manager,Ahmedabad, Gujarat, India,5001,1052
+53,Technology Lead - Mainframe (5-8 years) - Jaipur,Jaipur, Rajasthan, India,5002,1053
+54,Associate,Chennai, Tamil Nadu, India,5003,1054
+55,Autosar BSW,Bangalore Urban, Karnataka, India,5006,1055
+56,Technology Lead - Mainframe (5-8 years) - Jaipur,Jaipur, Rajasthan, India,5002,1056
+57,Associate,Jaipur, Rajasthan, India,5004,1057
+58,Associate,Chennai, Tamil Nadu, India,5003,1058
+59,Python Developer- Remote,Bengaluru, Karnataka, India,5001,1059
+60,Lead I - Software Engineering,Thiruvananthapuram, Kerala, India,5008,1060
+61,Lead Administrator,Coimbatore, Tamil Nadu, India,5006,1061
+62,AWS BigData Application Developer,Jaipur, Rajasthan, India,5005,1062
+63,Technology Analyst,Jaipur, Rajasthan, India,5002,1063
+64,Lead - Software Development,Bengaluru, Karnataka, India,5003,1064
+65,Data Scientist- WFH,India,,,5001,1065
+66,PA - AP-HEA007246,Jaipur, Rajasthan, India,5004,1066
+67,Python Backend Developer,Bengaluru, Karnataka, India,5001,1067
+68,Technology Analyst,Jaipur, Rajasthan, India,5002,1068
+69,Selenium+C#,Greater Delhi Area,,,5007,1069
+70,DELIVERY MANAGER,Chennai, Tamil Nadu, India,5009,1070
+71,Support,Chennai, Tamil Nadu, India,5003,1071
+72,Technology Analyst - Mainframe (3-5 years) - Indore,Indore, Madhya Pradesh, India,5002,1072
+73,Python Lead,Thiruvananthapuram, Kerala, India,5008,1073
+74,Technology Analyst - Devops (3-5 years) - Jaipur,Jaipur, Rajasthan, India,5002,1074
+75,Technology Analyst - Oracle PL/SQL (3-5 years) - Coimbatore,Coimbatore, Tamil Nadu, India,5002,1075
+76,Senior manager-BFS024317,Jaipur, Rajasthan, India,5004,1076
+77,Senior Python Developer,Chennai, Tamil Nadu, India,5001,1077
+78,Data Manager,Bengaluru, Karnataka, India,5010,1078
+79,Assistant Technical Manager,Gurgaon, Haryana, India,5010,1079
+80,Data Analyst,Noida, Uttar Pradesh, India,5006,1080
+81,Informatica Data Quality Application Developer,Mumbai, Maharashtra, India,5005,1081
+82,Informatica Data Quality Application Developer,Mumbai, Maharashtra, India,5005,1082
+83,Consultant - Cards and Payments,Bangalore Urban, Karnataka, India,5002,1083
+84,Project Manager,Jaipur, Rajasthan, India,5007,1084
+85,Sr Data Scientist,Bengaluru, Karnataka, India,5009,1085
+86,Technology Lead - Devops (5-8 years) - Jaipur,Jaipur, Rajasthan, India,5002,1086
+87,Technology Lead,Jaipur, Rajasthan, India,5002,1087
+88,Python Software Developer,Gurugram, Haryana, India,5001,1088
+89,TCS Hiring For JAVA,Bengaluru, Karnataka, India,5007,1089
+90,Delivery Assurance Manager,Kolkata, West Bengal, India,5006,1090
+91,Senior Analyst,Bengaluru, Karnataka, India,5010,1091
+92,QE_Perfomance_Senior,Kolkata, West Bengal, India,5011,1092
+93,Data Scientist Remote,Chennai, Tamil Nadu, India,5001,1093
+94,Data Science Manager,Hyderabad, Telangana, India,5001,1094
+95,Devops- Technology Analyst,Bengaluru, Karnataka, India,5002,1095
+96,Senior Associate – Business Analyst,Hyderabad, Telangana, India,5003,1096
+97,Delivery Manager II,Hyderabad, Telangana, India,5008,1097
+98,Assistant Technical Manager,Gurgaon, Haryana, India,5010,1098
+99,Senior Data Scientist,India,,,5001,1099
+100,Python Developer- Remote,India,,,5001,1100
+101,Technology Analyst - UI (3-5 years) -Jaipur,Jaipur, Rajasthan, India,5002,1101
+102,Technical Lead,Bengaluru, Karnataka, India,5006,1102
+103,Automation Engineer,Bengaluru, Karnataka, India,5006,1103
+104,Data Engineer- WFH,Chandigarh, India,,5001,1104
+105,Process Developer-BFS024297,Jaipur, Rajasthan, India,5004,1105
+106,Informatica Data Quality Application Developer,Mumbai, Maharashtra, India,5005,1106
+107,Informatica Data Quality Application Developer,Mumbai, Maharashtra, India,5005,1107
+108,Project Manager I,Bengaluru, Karnataka, India,5008,1108
+109,Manager-BFS024377,Bengaluru, Karnataka, India,5004,1109
+110,Process Developer-BFS024346,Jaipur, Rajasthan, India,5004,1110
+111,Technology Analyst - Oracle PLSQL (3-5 years) - Jaipur,Jaipur, Rajasthan, India,5002,1111
+112,Transaction Processing New Associate-Healthcare Claims,Mumbai, Maharashtra, India,5005,1112
+113,Project Lead,Bengaluru, Karnataka, India,5006,1113
+114,Associate,Chennai, Tamil Nadu, India,5003,1114
+115,Transaction Processing New Associate-Healthcare Claims,Mumbai, Maharashtra, India,5005,1115
+116,AGM-Regulatory,Jaipur, Rajasthan, India,5012,1116
+117,Data Engineer- WFH,Ahmedabad, Gujarat, India,5001,1117
+118,Technical Lead,Mysore, Karnataka, India,5006,1118
+119,Associate - Customer Service - Work At Home (REF11B),Navi Mumbai, Maharashtra, India,5003,1119
+120,Associate - Customer Service - Work At Home (REF11B),Navi Mumbai, Maharashtra, India,5003,1120
+121,General Referral - India,Chennai, Tamil Nadu, India,5003,1121
+122,Associate - Customer Service - Work At Home (REF11B),Navi Mumbai, Maharashtra, India,5003,1122
+123,Technical Lead,Bengaluru, Karnataka, India,5006,1123
+124,Associate - Customer Service - Work At Home (REF11B),Navi Mumbai, Maharashtra, India,5003,1124
+125,Data Science Manager,India,,,5001,1125
+126,Associate - Customer Service - Work At Home (REF11B),Navi Mumbai, Maharashtra, India,5003,1126
+127,SQL Developer,Mumbai, Maharashtra, India,5003,1127
+128,Python Backend Developer,India,,,5001,1128
+129,Junior Data Scientist,Chennai, Tamil Nadu, India,5009,1129
+130,Data Engineer- WFH,Bengaluru, Karnataka, India,5001,1130
+131,Lead-App & Software Testing,Hyderabad, Telangana, India,5003,1131
+132,Associate Data Scientist I,Thiruvananthapuram, Kerala, India,5008,1132
+133,Remote Content Writer Intern,India,,,5001,1133
+134,Data Scientist Remote,India,,,5001,1134
+135,Data Science Manager,Delhi, India,,5001,1135
+136,Process Associate - OTC-BFS022516,Jaipur, Rajasthan, India,5004,1136
+137,Ab Initio Application Developer,Bengaluru, Karnataka, India,5005,1137
+138,Engineering Manager,Hyderabad, Telangana, India,5010,1138
+139,Process Developer - PTP-HEA007364,Gurugram, Haryana, India,5004,1139
+140,"Engineering Manager,",Hyderabad, Telangana, India,5010,1140
+141,Techno Functional Consultant,Bengaluru, Karnataka, India,5006,1141
+142,Data Engineer- WFH,India,,,5001,1142
+143,Automation Engineer,Bengaluru, Karnataka, India,5007,1143
+144,RPA Developer,Chennai, Tamil Nadu, India,5003,1144
+145,Research HY Credit (Lead Analyst)/Associate Manager - Level 4,Navi Mumbai, Maharashtra, India,5003,1145
+146,Research HY Credit (Lead Analyst)/Associate Manager - Level 4,Navi Mumbai, Maharashtra, India,5003,1146
+147,Data Bricks (Python) Lead,Bengaluru, Karnataka, India,5006,1147
+148,Technology Lead - Oracle PLSQL (5-8 years) - Jaipur,Jaipur, Rajasthan, India,5002,1148
+149,Lead - Credit Research,Navi Mumbai, Maharashtra, India,5003,1149
+150,AVP STP Transformation,Jaipur, Rajasthan, India,5004,1150
+151,Hiring for OTC- HYDERABAD,Hyderabad, Telangana, India,5004,1151
+152,Automation Engineer,Bengaluru, Karnataka, India,5007,1152
+153,Technology Analyst - Mainframe (3-5 years) - Bhubaneswar,Bhubaneshwar, Odisha, India,5002,1153
+154,Data Analyst,Bengaluru, Karnataka, India,5010,1154
+155,Assistant Manager,Gurugram, Haryana, India,5004,1155
+156,Techno Functional Consultant,Bengaluru, Karnataka, India,5006,1156
+157,QA - Automation,Noida, Uttar Pradesh, India,5001,1157
+158,Lead Administrator,Pune, Maharashtra, India,5006,1158
+159,Lead-Software Development,Hyderabad, Telangana, India,5003,1159
+160,Project Manager - Devops (8-10 years) - Jaipur,Jaipur, Rajasthan, India,5002,1160
+161,Manager - Assurance - TMT - Audit Services - Pan India,Mumbai, Maharashtra, India,5011,1161
+162,Java Developer,Bengaluru, Karnataka, India,5001,1162
+163,Associate - Employee Referral,Hyderabad, Telangana, India,5003,1163
+164,Process Associate-BFS024349,Jaipur, Rajasthan, India,5004,1164
+165,Data Engineer- WFH,Goa, India,,5001,1165
+166,Data Science Manager,Gurugram, Haryana, India,5001,1166
+167,Quality Analyst Automation,Chennai, Tamil Nadu, India,5001,1167
+168,Technology Analyst - Java (3-5 years) - Mohali,Mohali district, Punjab, India,5002,1168
+169,Manager - Assurance - TMT - Audit Services - Pan India,Gurugram, Haryana, India,5011,1169
+170,Technology Lead - Mainframe (5-8 years) - Bhubaneswar,Bhubaneswar, Odisha, India,5002,1170
+171,Executive - Operations - OPERATIONS - On-Site Services- Direct - Jaipur,Jaipur, Rajasthan, India,5011,1171
+172,Associate-CS Internet,Chennai, Tamil Nadu, India,5003,1172
+173,Associate-CS Internet,Chennai, Tamil Nadu, India,5003,1173
+174,Associate-CS Internet,Chennai, Tamil Nadu, India,5003,1174
+175,Robot Framework,India,,,5007,1175
+176,Solution Architecting Business Process Architect,Jaipur, Rajasthan, India,5005,1176
+177,Java Developer,Noida, Uttar Pradesh, India,5001,1177
+178,Associate - Consultant,Mumbai, Maharashtra, India,5003,1178
+179,Associate-IT Helpdesk,Chennai, Tamil Nadu, India,5003,1179
+180,Delivery Manager I,Thiruvananthapuram, Kerala, India,5008,1180
+181,Techno Functional Consultant,Chennai, Tamil Nadu, India,5006,1181
+182,Process Developer,Gurugram, Haryana, India,5004,1182
+183,Sr Associate Manager- PowerBI & Data Analytics,Mumbai, Maharashtra, India,5003,1183
+184,Incident Manager,Mumbai, Maharashtra, India,5006,1184
+185,Lead I - SRE,Thiruvananthapuram, Kerala, India,5008,1185
+186,Techno Functional Consultant,Chennai, Tamil Nadu, India,5006,1186
+187,TCS BPS hiring For Insurance Analyst-Hyderabad,Hyderabad, Telangana, India,5007,1187
+188,Project Manager,Chandigarh, Chandigarh, India,5006,1188
+189,Technology Analyst,Chandigarh, India,,5002,1189
+190,Data Quality Analyst,Bengaluru, Karnataka, India,5006,1190
+191,Consultant - Payments,Bangalore Urban, Karnataka, India,5002,1191
+192,Assistant Technical Manager,Mumbai, Maharashtra, India,5010,1192
+193,OTC Collections || HYD,Hyderabad, Telangana, India,5004,1193
+194,Technology Analyst,Chandigarh, India,,5002,1194
+195,Specialist - Data Engineering,Chennai, Tamil Nadu, India,5009,1195
+196,Administrator,Bengaluru, Karnataka, India,5006,1196
+197,SQL & Jasper Reports Developer,Chennai, Tamil Nadu, India,5003,1197
+198,Associate Manager - Software development,Bengaluru, Karnataka, India,5003,1198
+199,Sr Associate Software Engineer,Bengaluru, Karnataka, India,5003,1199
+200,Assistant Manager-BFS024322,Bengaluru, Karnataka, India,5004,1200
+201,Associate EM,Gurugram, Haryana, India,5011,1201
+202,Clinical Data Management Scientist,Bengaluru, Karnataka, India,5005,1202
+203,Technical Lead,Bengaluru, Karnataka, India,5006,1203
+204,Lead I - Enterprise Solutions,Bengaluru, Karnataka, India,5008,1204
+205,Manual Tester,India,,,5007,1205
+206,Technology Analyst - Mainframe (3-5 years) - COIMBATORE,Chandigarh, India,,5002,1206
+207,GCR US - Assistant Manager,Bengaluru, Karnataka, India,5011,1207
+208,Lead Administrator,Pune, Maharashtra, India,5006,1208
+209,Data Security/ Data Privacy Experts,Bengaluru, Karnataka, India,5002,1209
+210,Senior Application Support,Chennai, Tamil Nadu, India,5003,1210
+211,Process Developer - Record to Report (Generalist)-BFS024305,Jaipur, Rajasthan, India,5004,1211
+212,Python Developer,Bengaluru, Karnataka, India,5007,1212
+213,Cyber Security Analyst,Kochi, Kerala, India,5006,1213
+214,Cyber Security Analyst,Gautam Buddha Nagar, Uttar Pradesh, India,5006,1214
+215,Hiring for OTC- NOIDA,Noida, Uttar Pradesh, India,5004,1215
+216,Technology Analyst,Mohali district, Punjab, India,5002,1216
+217,CTF Analyst,Trivandrum, Kerala, India,5011,1217
+218,Techno Functional Consultant,Gautam Buddha Nagar, Uttar Pradesh, India,5006,1218
+219,Technology Analyst - .Net,Bhubaneswar, Odisha, India,5002,1219
+220,Sr. Systems Engineer - Devops (2-3 years) - Jaipur,Jaipur, Rajasthan, India,5002,1220
+221,Lead - Credit Research,Navi Mumbai, Maharashtra, India,5003,1221
+222,Senior Consultant - System Management,Mumbai, Maharashtra, India,5009,1222
+223,Lead-Platform Solution,Chennai, Tamil Nadu, India,5003,1223
+224,Associate-CS Internet (IND01-AY11AH),Chennai, Tamil Nadu, India,5003,1224
+225,AGM- Credit Operations,Jaipur, Rajasthan, India,5012,1225
+226,Associate-CS Internet,Chennai, Tamil Nadu, India,5003,1226
+227,Data Scientist,Bengaluru, Karnataka, India,5006,1227
+228,Quality Analyst Automation,Coimbatore, Tamil Nadu, India,5001,1228
+229,AM-HRO-Hyd-HMS025342,Hyderabad, Telangana, India,5004,1229
+230,SOC Lead II,Thiruvananthapuram, Kerala, India,5008,1230
+231,Data Scientist Remote,Bengaluru, Karnataka, India,5001,1231
+232,Senior Manager-BFS024376,Bengaluru, Karnataka, India,5004,1232
+233,Lead Administrator,Mumbai, Maharashtra, India,5006,1233
+234,Associate-IT Helpdesk,Chennai, Tamil Nadu, India,5003,1234
+235,Technology Analyst - Oracle PL/SQL (3-5 years) - Trivandrum,Trivandrum, Kerala, India,5002,1235
+236,Manager - Process Improvement,Chennai, Tamil Nadu, India,5003,1236
+237,AWS Kinesis Application Developer,Jaipur, Rajasthan, India,5005,1237
+238,Technology Lead -DevOps,Pune, Maharashtra, India,5002,1238
+239,Assistant Project Lead,Hyderabad, Telangana, India,5010,1239
+240,Data Analyst,Bengaluru, Karnataka, India,5011,1240
+241,Process Associate - RTR-BFS023910,Jaipur, Rajasthan, India,5004,1241
+242,Technology Analyst-Java,Chandigarh, India,,5002,1242
+243,Lead-Platform Solution,Chennai, Tamil Nadu, India,5003,1243
+244,Technology Analyst,Bengaluru, Karnataka, India,5002,1244
+245,Technology Analyst,Jaipur, Rajasthan, India,5002,1245
+246,Pegasystems Platform Application Lead,Jaipur, Rajasthan, India,5005,1246
+247,Associate Professional - Finance Transformation Process - Accountant,Mumbai, Maharashtra, India,5003,1247
+248,EMS - Data CoE - Advanced Analyst,Bengaluru, Karnataka, India,5011,1248
+249,QA - Automation- WFH,Noida, Uttar Pradesh, India,5001,1249
+250,Project Lead,Bengaluru, Karnataka, India,5006,1250
+251,Technology Analyst - .Net,Trivandrum, Kerala, India,5002,1251
+252,Full Stack Developer,Bengaluru, Karnataka, India,5003,1252
+253,Cyber Security Analyst,Kochi, Kerala, India,5006,1253
+254,Technology Analyst,Indore, Madhya Pradesh, India,5002,1254
+255,Lead - App & Software Testing,Bengaluru, Karnataka, India,5003,1255
+256,Cross Functional Lead,Hyderabad, Telangana, India,5006,1256
+257,Transaction Processing New Associate-Insurance,Mumbai, Maharashtra, India,5005,1257
+258,Facilities Engineer,Thiruporur, Tamil Nadu, India,5010,1258
+259,Store Manager,Jaipur, Rajasthan, India,5012,1259
+260,Cyber Security Analyst,Hyderabad, Telangana, India,5006,1260
+261,Technical Lead,Bengaluru, Karnataka, India,5006,1261
+262,Lead Administrator,Pune, Maharashtra, India,5006,1262
+263,Data Specialist,Vadodara, Gujarat, India,5001,1263
+264,TCS Hiring For JAVA FSD,Bengaluru, Karnataka, India,5007,1264
+265,PHP Laravel Developer (WFH),Hyderabad, Telangana, India,5001,1265
+266,Lead Administrator,Pune, Maharashtra, India,5006,1266
+267,Lead - Healthcare - Coding Quality Auditor (REF52J),Chennai, Tamil Nadu, India,5003,1267
+268,MODULE LEAD BIG DATA,Bengaluru, Karnataka, India,5009,1268
+269,Technology Analyst,Chandigarh, India,,5002,1269
+270,Quality Analyst,Kerala, India,,5001,1270
+271,DevOps Engineer - WFH,Chennai, Tamil Nadu, India,5001,1271
+272,SDET,Greater Hyderabad Area,,,5007,1272
+273,Technology Analyst - Devops (3-5 years) - COIMBATORE,Coimbatore, Tamil Nadu, India,5002,1273
+274,Cyber Security Analyst,Kochi, Kerala, India,5006,1274
+275,Quality Analyst Automation,Chennai, Tamil Nadu, India,5001,1275
+276,MT-R2R-HMS026076,Bengaluru, Karnataka, India,5004,1276
+277,Management Trainee - Record to Report-BFS024282,Jaipur, Rajasthan, India,5004,1277
+278,Full Stack Developer,Bengaluru, Karnataka, India,5003,1278
+279,MIS Executive,Bengaluru, Karnataka, India,5010,1279
+280,Delivery Manager II,Thiruvananthapuram, Kerala, India,5008,1280
+281,Technology Analyst,Mangaluru, Karnataka, India,5002,1281
+282,Technical Lead,Kochi, Kerala, India,5006,1282
+283,Technology Lead,Bhubaneswar, Odisha, India,5002,1283
+284,Account Quality Manager,Pune, Maharashtra, India,5006,1284
+285,Technology Analyst - Java (3-5 years) - HYDERABAD,Hyderabad, Telangana, India,5002,1285
+286,Technology Analyst - Oracle PL/SQL (3-5 years) - Nagpur,Greater Nagpur Area,,,5002,1286
+287,Associate-CS Internet (IND01-AY11AH),Chennai, Tamil Nadu, India,5003,1287
+288,Associate-Account Management,Chennai, Tamil Nadu, India,5003,1288
+289,Specialist - Quality Engineering,Telangana, India,,5009,1289
+290,Specialist - System Management,Mulshi, Maharashtra, India,5009,1290
+291,Assistant Manager-Analytics-ANA006436,Bengaluru, Karnataka, India,5004,1291
+292,Lead I - Software Engineering,Thiruvananthapuram, Kerala, India,5008,1292
+293,Technology Analyst - Mainframe (3-5 years) - Gurgaon,Gurugram, Haryana, India,5002,1293
+294,Lead I - Software Engineering,Thiruvananthapuram, Kerala, India,5008,1294
+295,Senior Data Engineer,New Delhi, Delhi, India,5001,1295
+296,Associate-Record To Report,Bengaluru, Karnataka, India,5005,1296
+297,Associate-Trans Processing,Hyderabad, Telangana, India,5003,1297
+298,Technology Analyst - Oracle PL/SQL (3-5 years) - Mohali,Mohali district, Punjab, India,5002,1298
+299,Informatica PowerCenter Application Developer,Indore, Madhya Pradesh, India,5005,1299
+300,Technology Lead -DevOps,Chennai, Tamil Nadu, India,5002,1300
+301,Technology Analyst,Mohali district, Punjab, India,5002,1301
+302,Technology Analyst - Oracle PL/SQL (3-5 years) - Bangalore,Bengaluru, Karnataka, India,5002,1302
+303,Project Lead,Bengaluru, Karnataka, India,5006,1303
+304,Principal Consultant-Technology & Implementation,Hyderabad, Telangana, India,5006,1304
+305,Shift Engineer,Hyderabad, Telangana, India,5010,1305
+306,Associate-Account Management,Chennai, Tamil Nadu, India,5003,1306
+307,Technology Lead - Mainframe (5-8 years) - COIMBATORE,Coimbatore, Tamil Nadu, India,5002,1307
+308,AGM - Account Manager Government,Jaipur, Rajasthan, India,5012,1308
+309,Technology Lead - Mainframe (5-8 years) - Gurgaon,Gurugram, Haryana, India,5002,1309
+310,Senior Consultant-Technology & Implementation,Pune, Maharashtra, India,5006,1310
+311,Techno Functional Consultant,Delhi, Delhi, India,5006,1311
+312,Data Engineer,Bengaluru, Karnataka, India,5007,1312
+313,Associate Dotnet Developer,Gurugram, Haryana, India,5001,1313
+314,Management Trainee - Fleet Management-BFS024269,Jaipur, Rajasthan, India,5004,1314
+315,Lead II - Software Engineering,Thiruvananthapuram, Kerala, India,5008,1315
+316,Senior Data Engineer,India,,,5001,1316
+317,Technology Analyst - Java (3-5 years) - Indore,Indore, Madhya Pradesh, India,5002,1317
+318,SAP FI CO Finance Application Developer,Noida, Uttar Pradesh, India,5005,1318
+319,Technical Lead,Bengaluru, Karnataka, India,5006,1319
+320,Data Analyst,Gurgaon, Haryana, India,5010,1320
+321,Informatica Developer,India,,,5002,1321
+322,Assistant Manager-BFS024321,Bengaluru, Karnataka, India,5004,1322
+323,Sr Associate - Transaction processing,Chennai, Tamil Nadu, India,5003,1323
+324,Technical Lead,Bengaluru, Karnataka, India,5006,1324
+325,Lead-Trans Processing (IND01-DR13AS),Mumbai, Maharashtra, India,5003,1325
+326,Lead Administrator,Hyderabad, Telangana, India,5006,1326
+327,MT-O2C-INS016260,Gurugram, Haryana, India,5004,1327
+328,Technology Analyst - Oracle PL/SQL (3-5 years) -Gurgaon,Gurugram, Haryana, India,5002,1328
+329,Technical Lead,Bengaluru, Karnataka, India,5006,1329
+330,Android Developer- WFH,Bengaluru, Karnataka, India,5001,1330
+331,Assistant Manager-BFS024323,Bengaluru, Karnataka, India,5004,1331
+332,Developer,Delhi, Delhi, India,5006,1332
+333,Assurance - Consultant,Kolkata, West Bengal, India,5011,1333
+334,Technical Lead,Bengaluru, Karnataka, India,5006,1334
