@@ -33,7 +33,7 @@ Make sure you have the necessary installations and setups for the above tools an
 
 
 
-## Project Structure
+## Project Content
 
 1. **`Web Scrapping`** (Folder)
    - `chromedriver.exe`: The Chrome browser driver used for web scraping.
@@ -57,6 +57,17 @@ Make sure you have the necessary installations and setups for the above tools an
 8. **`Job analytics- Project presentation.pptx`**: Presentation slides ppt providing an overview of the job analytics project.
 
 Please refer to the specific files and folders for more detailed information on their content and usage.
+
+
+## About Project
+
+### Problem Statement
+Scrape data from the professional networking platform Linkedin using Python library called Beautifulsoup (or similar) and collate information in the in specific format and make 3 tables using the data.
+
+Below highlighted sections which is extractextract the section highlighted in red in the screenshot below for analysis.
+
+![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/ee38ce6a-d63b-4207-b3db-dae53b255bc3)
+
 
 
 
