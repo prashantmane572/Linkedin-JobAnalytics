@@ -64,10 +64,39 @@ Please refer to the specific files and folders for more detailed information on 
 ### Problem Statement
 Scrape data from the professional networking platform Linkedin using Python library called Beautifulsoup (or similar) and collate information in the in specific format and make 3 tables using the data.
 
-Below highlighted sections which is extractextract the section highlighted in red in the screenshot below for analysis.
+For analysis purposes, extract the sections highlighted in red in the screenshot below.
 
 ![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/ee38ce6a-d63b-4207-b3db-dae53b255bc3)
 
+
+### Methodology
+
+The project follows the following methodology:
+| Step | Description |
+|------|--------------|
+| 1.     | **Data Collection**: Utilize web scraping techniques with a Python library such as Beautiful Soup or a similar library to extract data from the LinkedIn platform. Specifically, scrape the sections highlighted in red in the provided screenshot to gather the required information for analysis.|
+| 2.     | **Data Cleaning and Preprocessing**: Perform data cleaning tasks to ensure the extracted data is accurate and consistent. Handle missing values, remove duplicates, and format the data appropriately for further analysis.|
+| 3.     | **Exploratory Data Analysis (EDA)**: Conduct exploratory data analysis on the collected data. Generate descriptive statistics, visualize distributions, and explore relationships between variables. Identify any patterns or trends that may be relevant to the analysis.|
+| 4.     | **Data Transformation and Formatting**: Prepare the data for analysis by transforming it into a specific format suitable for the desired analysis. This may involve reshaping the data, aggregating it, or applying other necessary transformations. |
+| 5.     | **Data Analysis**: Apply appropriate analytical techniques to derive insights from the data. This may include statistical analysis, data mining, or machine learning algorithms depending on the project requirements. Perform the analysis with a clear objective in mind, such as identifying key trends, patterns, or correlations. |
+| 6.      | **Data Visualization with Tableau**: Utilize Tableau, a powerful data visualization tool, to create interactive and visually appealing visualizations. Present the analyzed data through charts, graphs, and dashboards to effectively communicate the findings. |
+| 7.     | **Data Organization in Tables**: Organize the extracted data into three different tables based on their relationships. Explain the relationships and connections between these tables in a database schema. |
+| 8.     | **Summary and Conclusions**: Summarize the results of the data analysis and draw meaningful conclusions based on the insights gained. Highlight the key findings, implications, and any actionable recommendations that arise from the analysis.|
+| 9.     | **Documentation and Presentation**: Prepare comprehensive documentation in the form of a PowerPoint presentation (PPT). Include details about the project objectives, methodology, data sources, data analysis techniques used, visualizations, and key findings. Use the presentation to effectively present the project's findings and insights. |
+
+By following this methodology, the project aims to extract, clean, analyze, and visualize the relevant data from LinkedIn. The use of Tableau and the organization of data into tables provide a structured and visually appealing representation of the insights gained from the analysis. The documentation prepared in the form of a PPT presentation ensures clear communication of the project's objectives, methodology, and findings.
+
+
+### Database Information
+
+#### Sample Dataset
+The scraped data obtained from the website is in the following format:
+![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/5acc2642-10f4-4727-be9c-27de5778e7b8)
+
+#### Schema
+After scraping the data, it was cleaned and separated into three different tables: **`company`**, **`jobs`**, and **`details`**. 
+Below is the star schema representing the relationship between these tables.
+![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/a3b34fcd-dddc-48b2-9d4b-9b7629315850)
 
 
 
