@@ -4,6 +4,8 @@ LinkedIn Job Analytics is a data-driven project that leverages Python, Beautiful
 
 
 
+
+
 ## Prerequisites
 
 1. **Web Scraping using Python**:
@@ -139,5 +141,38 @@ Below is the star schema representing the relationship between these tables.
 
 ### Dashboard 
 Tableau Dashboard: [Linkdean Job Analysis Dashboard](https://public.tableau.com/app/profile/prashantmane572/viz/Linkdean_Jobanalysis/JobAnalysis?publish=yes)
+
 ![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/8d7134a1-08e3-4a65-9889-2c1ba467f227)
 
+
+## Conclusion
+
+In this project, we successfully scraped job data from LinkedIn, cleaned and analyzed the data, and visualized the findings. Here are the key takeaways:
+
+- The job market analysis revealed that the most in-demand domains are data analyst and developer.
+- Top hiring companies, including Uplers, Southerland, and Infosys, had a significant number of job postings.
+- Job opportunities were concentrated in states like Karnataka, Rajasthan, Tamil Nadu, and Maharashtra.
+- Bangalore emerged as a thriving job market, offering a diverse range of job opportunities across different fields.
+- The IT Services and IT Consulting industry showcased the highest number of job postings.
+- Job involvement types varied from full-time to part-time and contract, and job levels spanned from entry-level to senior management.
+- Applicant insights highlighted varying levels of competition, with some jobs receiving a high number of applicants and others having relatively lower competition.
+
+The Tableau dashboard [here](https://public.tableau.com/app/profile/prashantmane572/viz/Linkdean_Jobanalysis/JobAnalysis?publish=yes) provides a detailed visualization of the analyzed data.
+
+By following this methodology and utilizing Tableau for visualization, we gained valuable insights into the job market, enabling us to understand trends, identify top companies, explore geographical job distributions, and analyze job involvement and applicant insights.
+
+This project serves as a valuable resource for job seekers, employers, and policymakers, aiding them in making informed decisions based on the analyzed data and visualizations.
+
+
+
+## Note: Demo Project for Study Purposes
+
+<small>This project is intended as a demonstration for educational purposes only. It serves as an example of how to scrape data from LinkedIn, clean and analyze the data, and visualize the findings using Tableau. The data used in this project is simulated or anonymized and does not reflect real-world data.</small>
+
+<small>Please note that approximately 300 job listings were scraped from LinkedIn for the purpose of this demo. The data may not represent the actual job market conditions or trends.</small>
+
+<small>Feel free to explore the code, methodologies, and visualizations presented here to enhance your understanding of web scraping, data analysis, and data visualization techniques. However, please refrain from using this project or its code for any commercial or production purposes without proper authorization.</small>
+
+<small>If you have any questions or suggestions, please reach out to the project maintainers.</small>
+
+<small>Happy studying and learning!</small>
