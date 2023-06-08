@@ -99,38 +99,45 @@ Below is the star schema representing the relationship between these tables.
 ![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/a3b34fcd-dddc-48b2-9d4b-9b7629315850)
 
 
+### Insights
 
-## Installation
+- **Job Market Analysis**: The most job offering domains are data analyst 20.36% and developer 20% compared to other domains.
 
-1. Provide step-by-step installation instructions if applicable.
+![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/eec6defd-ff19-4bb3-8a34-0da6281f10fb)
 
+- **Top Hiring Companies**: Based on the dataset, Uplers, Southerland, and Infosys are the companies with the highest number of job postings.
+- **Applicant Insights**: Some jobs have a high number of applicants, indicating strong competition, while others have relatively fewer applicants, suggesting lower competition and potentially higher chances of securing the job.
 
-
-## Usage
-
-1. Explain how to use your project.
-2. Include examples or code snippets if necessary.
-
+![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/c4a24f50-467c-437e-bb24-ac893a96dbde)
 
 
-## Contributing
+- **Geographical Job Distribution**: The majority of job opportunities are concentrated in states like Karnataka, Rajasthan, Tamil Nadu, and Maharashtra. 
 
-Describe how others can contribute to your project (if applicable).
+![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/2e8c5030-1203-4da2-b0fd-75f2575e598c)
 
+- **Thriving Job Market in Bangalore**: Within Bangalore, more companies are available across different fields of job.
 
+- **Industry Analysis**: The IT Services and IT Consulting industry has the most job postings.
 
-## License
-
-Add a license statement to specify how your project can be used.
+![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/e7de57d8-805e-4611-8562-7a80de4b366d)
 
 
 
-## Acknowledgments
+### Challenges
 
-Give credit to any resources or individuals that helped you during the project.
+- The ultimate challenge was figuring out how to scrape data from the website.
+- On the first day, we conducted research on web scraping techniques.
+- After exploring various options, we determined that Selenium would best fit our requirements.
 
+### Learning
 
+- Throughout the project, we gained knowledge about Selenium through various resources.
+- Reference links:
+  - [YouTube Tutorial 1](https://youtu.be/lTypMlVBFM4)
+  - [YouTube Tutorial 2](https://youtu.be/Xjv1sY630Uc)
+- We also referred to the [official Selenium documentation](https://www.selenium.dev/documentation/) for detailed information.
 
-## Contact
+### Dashboard 
+Tableau Dashboard: [Linkdean Job Analysis Dashboard](https://public.tableau.com/app/profile/prashantmane572/viz/Linkdean_Jobanalysis/JobAnalysis?publish=yes)
+![image](https://github.com/prashantmane572/Linkedin-JobAnalytics/assets/126981770/8d7134a1-08e3-4a65-9889-2c1ba467f227)
 
-Provide your contact information if others want to reach out to you regarding the project.
